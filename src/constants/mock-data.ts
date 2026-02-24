@@ -26,3 +26,4 @@ export const MOCK_SUBJECTS: Subject[] = [
     createdAt: "2024-01-15T10:00:00Z",
   },
 ];
+
