@@ -96,6 +96,7 @@ export type Department = {
 };
 
 export type ClassDetails = {
+    length: number;
     id: number;
     name: string;
     description: string;
